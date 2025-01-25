@@ -28,7 +28,7 @@ A simple Student Record System that allows users to manage student information u
 7. **Search Functionality**:
    - Allow users to search for a student by their roll number and display the relevant information.
 
-8. Calculations and Sorting:
+8. **Calculations and Sorting**:
    - Calculate and display the average marks for all students.
 
    - Provide an option to sort student records based on marks in ascending or descending order.
