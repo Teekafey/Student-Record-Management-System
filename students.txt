@@ -1,0 +1,12 @@
+101 Rantimi Soluade ranti@miva.com COS101 85.5
+102 Mayowa Kalejaiye mayowa@miva.com COS221 93.5
+103 Treasure Okafor treasure@miva.com IFT211 91.0
+104 OilofGod Makanjuola nifemi@miva.com SEN201 83.0
+105 Honour Isimoya honour@miva.com SEN203 81.4
+106 Earl Jamabo earl@miva.com COS203 87.0
+107 Gerald Adams gerald@miva.com COS203 31.9
+108 Amarachi Uzoeto amarachi@miva.com IFT112 98.0
+109 Joel Effiong joel@miva.com COS201 78.0
+110 Samuel Okafor samuel@miva.com SEN201 80.0
+111 Mutohir Okuniyi mutohir@miva.com IFT211 71.6
+112 Yusuf Jimoh yusuf@miva.com SEN203 22.0
